@@ -29,7 +29,7 @@ function ratingsToHTML(data){
             if(ii == 0){
                 ratingsString += "<br>Genres: ";
             }
-            ratingsString += data[i].genres;
+            ratingsString += data[i].genres[ii];
             if(ii < data[i].genres.length){
                 ratingsString += ", ";
             }
