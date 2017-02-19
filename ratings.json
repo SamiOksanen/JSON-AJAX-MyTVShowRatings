@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mad Men",
+        "genres": ["drama"],
+        "time": {
+            "released": "2007",
+            "ended": "2015",
+            "seasons": 7
+        },
+        "rating": 7.5
+    },
+    {
+        "name": "Breaking Bad",
+        "genres": ["crime", "drama", "thriller"],
+        "time": {
+            "released": "2008",
+            "ended": "2013",
+            "seasons": 5
+        },
+        "rating": 8.5
+    },
+    {
+        "name": "Sopranos",
+        "genres": ["crime", "drama"],
+        "time": {
+            "released": "1999",
+            "ended": "2007",
+            "seasons": 6
+        },
+        "rating": 9
+    }
+]
